@@ -1,11 +1,13 @@
 # Nebula cursor
 
+> **Moved.** This now lives in [wevial/spectra](https://github.com/wevial/spectra/tree/main/cursors/nebula) with its full history. The demo is at [spectra.kovial.workers.dev/nebula](https://spectra.kovial.workers.dev/nebula/). This repo is archived.
+
 A fixed, fullscreen WebGL2 nebula you can part with your mouse. The cursor
 bends a displacement field rather than moving color: clouds thin where you
 pass, pile up at the rim, and always heal back to the untouched procedural
 cloud. Colors never mix, so the nebula can't be stirred to mud.
 
-**[Live demo →](https://wevial.github.io/nebula-cursor/)** (desktop — move your mouse through the gas)
+**[Live demo →](https://spectra.kovial.workers.dev/nebula/)** (desktop — move your mouse through the gas)
 
 ![The nebula mid-parting — a cursor sweep has carved a lane and left a vortex swirl in the gas](docs/hero.png)
 
